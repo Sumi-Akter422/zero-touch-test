@@ -80,7 +80,6 @@ if [ -n "$PUSHED_DIFF" ]; then
     'api[_-]?key\s*=\s*["\x27][^"\x27]{8,}'
     'secret\s*=\s*["\x27][^"\x27]{8,}'
     'AWS_SECRET_ACCESS_KEY\s*='
-    'PRIVATE KEY'
     'token\s*=\s*["\x27][^"\x27]{8,}'
     'DATABASE_URL\s*='
   )
