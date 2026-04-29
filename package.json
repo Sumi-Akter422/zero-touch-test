@@ -1,0 +1,9 @@
+{
+  "name": "zero-touch-test",
+  "version": "1.0.0",
+  "description": "Zero Touch demo project for feature testing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  }
+}
