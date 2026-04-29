@@ -20,3 +20,4 @@ function validateToken(token) {
 }
 
 module.exports = { login, logout, validateToken };
+// demo
