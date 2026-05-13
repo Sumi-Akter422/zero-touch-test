@@ -15,3 +15,4 @@ function isEmpty(value) {
 module.exports = { formatDate, generateId, isEmpty };
 export function helper() {}
 export function calculateTotal(items) { return items.reduce((sum, i) => sum + i.price, 0); }
+export function helper2() {}
