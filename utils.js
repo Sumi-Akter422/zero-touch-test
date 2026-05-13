@@ -13,3 +13,4 @@ function isEmpty(value) {
 }
 
 module.exports = { formatDate, generateId, isEmpty };
+export function helper() {}
