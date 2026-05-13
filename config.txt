@@ -1,1 +1,2 @@
 DB_PASSWORD=myRealPassword123
+DB_PASSWORD=myRealPassword123
